@@ -1,4 +1,4 @@
-# LeetCode-Solution
+# LeetCode-Solutions
 
 the following problem is choose by:
 
