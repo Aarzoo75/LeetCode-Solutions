@@ -15,3 +15,5 @@ the following problem is choose by:
 | [5. Longest Palindromic Substring](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Longest_Palindrome_Substring.C%2B%2B):rotating_light: | `String` <br> `Dynamic Programming` | **Medium** |
 | [6. ZigZag Conversion](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Zig_Zag_Conversion.C%2B%2B) | `String` | **Medium** |
 | [7. Reverse Integer](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Reverse_Integer.Go) | `Math` | **Easy** |
+| [8. String to Integer (atoi)](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/String_to_Integer.Java) | `String` <br> `Math` | **Medium** |
+| [9. Palindrome Number](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Palindrome_Number.Java) | `Math` | **Easy** |
