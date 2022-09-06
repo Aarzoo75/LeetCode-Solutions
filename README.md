@@ -17,3 +17,7 @@ the following problem is choose by:
 | [7. Reverse Integer](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Reverse_Integer.Go) | `Math` | **Easy** |
 | [8. String to Integer (atoi)](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/String_to_Integer.Java) | `String` <br> `Math` | **Medium** |
 | [9. Palindrome Number](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Palindrome_Number.Java) | `Math` | **Easy** |
+| [10. Regular Expression Matching](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Regular_Expression_Matching.C++):rotating_light: | `String` <br> `Dynamic Programming` <br> `BackTracking` | **Hard** |
+| [11. Container With Most Water](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Container_With_Most_Water.C++) | `Array` <br> `Two Pointer` | **Medium** |
+| [12. Integer to Roman](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Integer_To_Roman.Py) | `Math` <br> `String` | **Medium** |
+| [13. Roman to Integer](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Roman_To_Integer.C++) | `Math` <br> `String` | **Easy** |
