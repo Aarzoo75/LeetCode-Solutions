@@ -21,3 +21,7 @@ the following problem is choose by:
 | [11. Container With Most Water](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Container_With_Most_Water.C++) | `Array` <br> `Two Pointer` | **Medium** |
 | [12. Integer to Roman](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Integer_To_Roman.Py) | `Math` <br> `String` | **Medium** |
 | [13. Roman to Integer](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Roman_To_Integer.C++) | `Math` <br> `String` | **Easy** |
+| [14. Longest Common Prefix](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Longest_Common_Prefix.C++) | `String` | **Easy** |
+| [15. 3Sum](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/3Sum.C++) :rotating_light: | `Array` <br> `Two Pointer` | **Medium** |
+| [16. 3Sum Closest](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/3Sum_Closest.Java) | `Array` <br> `Two Pointer` | **Medium** |
+| [17. Letter Combinations of a Phone Number](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Letter_Combinations_Of_A_Phone_Number.C++) | `String` <br> `BackTracking` | **Medium** |
