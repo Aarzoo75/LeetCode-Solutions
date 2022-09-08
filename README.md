@@ -25,3 +25,10 @@ the following problem is choose by:
 | [15. 3Sum](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/3Sum.C++) :rotating_light: | `Array` <br> `Two Pointer` | **Medium** |
 | [16. 3Sum Closest](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/3Sum_Closest.Java) | `Array` <br> `Two Pointer` | **Medium** |
 | [17. Letter Combinations of a Phone Number](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Letter_Combinations_Of_A_Phone_Number.C++) | `String` <br> `BackTracking` | **Medium** |
+| [18. 4Sum](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/4Sum.C++) :rotating_light: | `Array` <br> `Two Pointer` <br> `HashTable` | **Medium** |
+| [19. Remove Nth Node From End of List](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Remove_Nth_Node_From_End_Of_List.Py) | `LinkedList` <br> `Two Pointers` | **Medium** |
+| [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md) | `String` <br> `Stack` | **Easy** |
+| [21. Merge Two Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md) | `LinkedList` | **Easy** |
+| [22. Generate Parentheses](https://github.com/103style/LeetCode/blob/master/String/22.%20Generate%20Parentheses.md) | `String` <br> `BackTracking` | **Medium** |
+| [23.Merge k Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/23.Merge%20k%20Sorted%20Lists.md) | `LinkedList` <br> `Divide and Conquer` <br> `Heap` | **Hard** |
+| [24. Swap Nodes in Pairs](https://github.com/103style/LeetCode/blob/master/Linked%20List/24.%20Swap%20Nodes%20in%20Pairs.md) | `LinkedList` | **Medium** |
