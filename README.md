@@ -35,9 +35,9 @@ the following problem is choose by:
 | [25. Reverse Nodes in k-Group](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Reverse_Nodes_in_k-Group.C++) | `LinkedList` | **Hard** |
 | [26. Remove Duplicates from Sorted Array](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Remove_Duplicates_From_Sorted_Array.C++) | `Array` <br> `Two Pointer` | **Easy** |
 | [27. Remove Element](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Remove_Element.C++) | `Array` <br> `Two Pointer` | **Easy** |
-| [28. Implement strStr()](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Find_The_Index_Of_The_First_Occurrence_In_a_String.C++) | `String` <br> `Find the Index of the First Occurrence in a String` | **Medium** |
-| [29. Implement strStr()](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Divide_Two_Integer.C%2B%2B) | `String` <br> `Divide Two Integers` | **Easy** |
-| [30. Implement strStr()](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Substring_With_Concatenation_Of_All_Words.Js) | `String` <br> `Substring with Concatenation of All Words` | **Hard** |
+| [28. Find the Index of the First Occurrence in a String](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Find_The_Index_Of_The_First_Occurrence_In_a_String.C++) | `String` <br> `Find the Index of the First Occurrence in a String` | **Medium** |
+| [29. Divide Two Integers](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Divide_Two_Integer.C%2B%2B) | `String` <br> `Divide Two Integers` | **Easy** |
+| [30. Substring with Concatenation of All Words](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Substring_With_Concatenation_Of_All_Words.Js) | `String` <br> `Substring with Concatenation of All Words` | **Hard** |
 | [31. Next Permutation](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Next_Permutation.Java) :rotating_light: | `Array` | **Medium** |
 | [32. Longest Valid Parentheses](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Longest_Valid_Parentheses.Py):rotating_light: | `String` <br> `Dynamic Programming` | **Hard** |
 | [33. Search in Rotated Sorted Array](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Search_In_Rotated_Sorted_Array.C++) :rotating_light: | `Array` <br> `Binary Serach` | **Medium** |
