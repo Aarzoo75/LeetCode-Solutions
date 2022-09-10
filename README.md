@@ -32,3 +32,18 @@ the following problem is choose by:
 | [22. Generate Parentheses](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Generate_Parentheses.C++) | `String` <br> `BackTracking` | **Medium** |
 | [23.Merge k Sorted Lists](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Merge_K_Sorted_Lists.C++) | `LinkedList` <br> `Divide and Conquer` <br> `Heap` | **Hard** |
 | [24. Swap Nodes in Pairs](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Swap_Nodes_In_Paris.C++) | `LinkedList` | **Medium** |
+| [25. Reverse Nodes in k-Group](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Reverse_Nodes_in_k-Group.C++) | `LinkedList` | **Hard** |
+| [26. Remove Duplicates from Sorted Array](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Remove_Duplicates_From_Sorted_Array.C++) | `Array` <br> `Two Pointer` | **Easy** |
+| [27. Remove Element](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Remove_Element.C++) | `Array` <br> `Two Pointer` | **Easy** |
+| [28. Implement strStr()](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Find_The_Index_Of_The_First_Occurrence_In_a_String.C++) | `String` <br> `Find the Index of the First Occurrence in a String` | **Medium** |
+| [29. Implement strStr()](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Divide_Two_Integer.C%2B%2B) | `String` <br> `Divide Two Integers` | **Easy** |
+| [30. Implement strStr()](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Substring_With_Concatenation_Of_All_Words.Js) | `String` <br> `Substring with Concatenation of All Words` | **Hard** |
+| [31. Next Permutation](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Next_Permutation.Java) :rotating_light: | `Array` | **Medium** |
+| [32. Longest Valid Parentheses](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Longest_Valid_Parentheses.Py):rotating_light: | `String` <br> `Dynamic Programming` | **Hard** |
+| [33. Search in Rotated Sorted Array](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Search_In_Rotated_Sorted_Array.C++) :rotating_light: | `Array` <br> `Binary Serach` | **Medium** |
+| [34. Find First and Last Position of Element in Sorted Array](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Find_First_And_Last_Position_of_Element_In_Sorted_Array.Java) :rotating_light: | `Array` <br> `Binary Serach` | **Medium** |
+| [35. Search Insert Position](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Search__Insert_Position.Py) | `Array` <br> `Binary Serach` | **Easy** |
+| [36. Valid Sudoku](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Valid_Sudoku.Java) | `HashTable` | **Medium** |
+| [37. Sudoku Solver](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Sudoku_Solver.Java) | `HashTable` <br> `Backtracking` | **Hard** |
+| [38. Count and Say](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Count_And_Say.Py) | `String` | **Easy** |
+| [39. Combination Sum](https://github.com/Aarzoo75/LeetCode-Solutions/blob/main/Combination_Sum.Py) | `Array` <br> `Backtracking` | **Medium** |
