@@ -12,7 +12,7 @@ public:
                 if(j > i + 1 && nums[j] == nums[j - 1]) continue;
                 while(j < k - 1 && nums[j] + nums[k - 1] >= target) k--;
                 if(nums[j] + nums[k] == target) {
-                    res.push_back({nums[i], nums[j], nums[k]}) ;
+                    res.push_back({nums[i], nums[j], nums[k]});
                 }
             }
         }
